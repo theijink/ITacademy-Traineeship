@@ -1,4 +1,0 @@
-DEBUG:parse.py:837:2021-10-21 16:29:41,969:format 'the logfile is specified and initialised' -> 'the logfile is specified and initialised'
-DEBUG:parse.py:837:2021-10-21 16:29:41,969:format 'an error occurs' -> 'an error occurs'
-DEBUG:parse.py:837:2021-10-21 16:29:41,969:format 'this error gets logged to the logfile' -> 'this error gets logged to the logfile'
-INFO:step_do_some_logging.py:10:2021-10-21 16:29:41,973:The program has started

@@ -1,0 +1,8 @@
+question,yes,no
+Is the animal extinct?,dodo,horse
+Does it have hooves?,horse,penguin
+Does it live in Antarctica?,penguin,raindeer
+Do they belong to Santa's sleigh?,raindeer,crocodile
+Does it live in the river?,crocodile,dodo
+Does it live at the North Pole?,Polar bear,raindeer
+Does it have creepy little arms?,Tyranosaur,crocodile
