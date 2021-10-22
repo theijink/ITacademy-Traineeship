@@ -28,6 +28,7 @@ This folder contains the subdirectories for each **project** in the course
 ## Using Git and Github for Sharing and Version Register
 ### make a ssh-key
 
+### clone a repository
 
 
 
