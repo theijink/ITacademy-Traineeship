@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./behave/lib/python3.8/site-packages"
+    ]
+}
